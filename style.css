@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding-bottom: 20px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.imagee {
+    margin-left: 12px;
+}
+
+.heading {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    margin-right: 60px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.heading p {
+    font-size: 15px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.info {
+    margin-left: 10px;
+}
+
+.info p {
+    display: inline;
+}
+
+
+
+
