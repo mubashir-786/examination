@@ -112,7 +112,7 @@
                             <div class="container">
                                 <img src="bukc.jpg" class="imagee" width="85" height="95" style="float: left">
                                 <div class="heading">
-                                <b>BAHRIA UNIVERSITY (KARACHI CAMPUS)</b><p>MIDTERM TERM EXAMINATION - SUMMER SEMESTER-2022 <br> <br> <b>(COURSE TITLE: '.$data['courseName'].' | COURSE CODE: '.$data['courseCode'].')</b></p>
+                                <b>BAHRIA UNIVERSITY (KARACHI CAMPUS)</b><p>MIDTERM TERM EXAMINATION - FALL SEMESTER-2022 <br> <br> <b>(COURSE TITLE: '.$data['courseName'].' | COURSE CODE: '.$data['courseCode'].')</b></p>
                             </div> <br>
                             <div class="info">
                                 <table style="width:100%">
@@ -145,18 +145,12 @@
                                     <table class="table table-bordered dataTable-table" style="width:100%">
                                         <thead>
                                             <tr>
-                                                <td width="15%">Sr.No</td>
-                                                <td width="60%">Questions</td>
-                                                <td width="25%">Marks</td>
+                                                <td width="5%"></td>
+                                                <td width="85%">Questions</td>
+                                                <td width="10%">Marks</td>
                                             </tr>
                                         </thead>
-                                        <tbody>'.$questionsHtml.'</tbody>
-                                        <tfoot>
-                                            <tr>
-                                                <td colspan="2" style="text-algin:right !important;">Total Marks</td>
-                                                <td class="totalMarks">'.$data['totalMarks'].'</td>
-                                            </tr>
-                                        </tfoot>
+                                        <tbody><br>'.$questionsHtml.'<br></tbody>
                                     </table> 
                                     <br>
                                 </div>

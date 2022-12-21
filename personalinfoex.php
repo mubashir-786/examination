@@ -96,9 +96,9 @@
                                 </nav>
                             </div>
                             <!---<div class="sb-sidenav-menu-heading">Addons</div>--->
-                            <a class="nav-link" href="recieveex.php">
+                            <a class="nav-link" href="reviewPapers.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
-                                Review Paper
+                                Received Papers
                             </a>
                             <a class="nav-link" href="">
                                 <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>

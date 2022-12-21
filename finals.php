@@ -110,7 +110,7 @@
                     <div class="container">
                         <img src="bukc.jpg" class="imagee" width="85" height="95" style="float: left">
                         <div class="heading">
-                        <b>BAHRIA UNIVERSITY (KARACHI CAMPUS)</b><p>FINAL TERM EXAMINATION - SUMMER SEMESTER-2022 <br> <br> <b>(COURSE TITLE: '.$data['courseName'].' | COURSE CODE: '.$data['courseCode'].')</b></p>
+                        <b>BAHRIA UNIVERSITY (KARACHI CAMPUS)</b><p>FINAL TERM EXAMINATION - FALL SEMESTER-2022 <br> <br> <b>(COURSE TITLE: '.$data['courseName'].' | COURSE CODE: '.$data['courseCode'].')</b></p>
                     </div> <br>
                     <div class="info">
                         <table style="width:100%">
@@ -149,12 +149,6 @@
                                     </tr>
                                 </thead>
                                 <tbody>'.$questionsHtml.'</tbody>
-                                <tfoot>
-                                    <tr>
-                                        <td colspan="2" style="text-algin:right !important;">Total Marks</td>
-                                        <td class="totalMarks">'.$data['totalMarks'].'</td>
-                                    </tr>
-                                </tfoot>
                             </table> 
                             <br>
                         </div>

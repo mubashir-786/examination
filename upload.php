@@ -136,7 +136,7 @@
                                 <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
                                 Rejected Papers
                             </a>
-                            <a class="nav-link" href="undertakings.php">
+                            <a class="nav-link" href="">
                                 <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
                                 Undertakings
                             </a>

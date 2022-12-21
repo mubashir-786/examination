@@ -95,7 +95,7 @@
                                 <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
                                 Review Papers
                             </a>
-                            <a class="nav-link" href="undertakings.php">
+                            <a class="nav-link" href="">
                                 <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
                                 Undertakings
                             </a>
@@ -114,8 +114,19 @@
                         <ol class="breadcrumb mb-4">
                             <li class="breadcrumb-item active">Dashboard</li>
                         </ol>
-                        <img src="bukc.jpg" style="margin-left: 130px; size: 10px">
-                    </div>
+                        <h6><br>Faculty<br></h6> 
+                        <p>Faculty is that actor of the system who will interact with their specific portal for paper formatting and submit paper to the cluster head.
+                        </p>
+                        <h6><br>Cluster Head<br></h6>
+                        <p>Cluster Head is that actor of the system who will interact with their specific portal to check and review the paper and to notify faculty with comments and remarks. If the paper was approved then send to HOD otherwise resend to faculty with comments or remarks.
+                        </p>
+                        <h6><br>H.O.D<br></h6>
+                        <p>HOD is that actor of the system who will interact with their specific portal to approve the formatted paper after reviewing the questions of the paper according to their specific departments. If the paper approval is denied then faculty will be notified with remarks.
+                        </p>
+                        <h6><br>Examination Cell<br></h6>
+                        <p>The Examination Cell is that actor of the system who will interact with their specific portal to receive the final formatted paper for the printing.
+                        </p>
+                            </div>
                 </main>
             </div>
         </div>
